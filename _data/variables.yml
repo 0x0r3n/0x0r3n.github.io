@@ -1,6 +1,6 @@
 default:
-  text_skin: default
-  highlight_theme: default
+  text_skin: forest
+  highlight_theme: tomorrow-night-bright
   lang: en
   paths:
     root: /
