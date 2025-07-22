@@ -4,6 +4,7 @@ published: 2025-03-10
 description: Writeups for VishwaCTF challenges
 tags: [Reversing, Forensics, Miscellaneous, Web, Crypto]
 category: Writeups
+author: nh0kt1g3r12, kAiz3n, nukoneZ, t4t3012, _biscuit.cz
 draft: false
 ---
 

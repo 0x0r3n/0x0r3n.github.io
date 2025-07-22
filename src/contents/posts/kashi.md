@@ -4,6 +4,7 @@ published: 2025-02-28
 description: Writeups for KashiCTF 2025 challenges
 tags: [Forensics, Pwn, Crypto, Web, Misc]
 category: Writeups
+author: nh0kt1g3r12, kAiz3n, nukoneZ, t4t3012, _biscuit.cz
 draft: false
 
 ---
