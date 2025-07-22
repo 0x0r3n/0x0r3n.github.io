@@ -1,10 +1,9 @@
 ---
 title: HCMUS-CTF 2025 Quals
-published: 2025-07-22
+published: 2025-07-21
 description: Writeups for HCMUS-CTF 2025 Quals challenges.
 tags: [Reversing, Forensics, Crypto, Web, Misc]
 category: Writeups
-licenseName: "Unlicensed"
 author: nh0kt1g3r12, kAiz3n, nukoneZ, t4t3012, _biscuit.cz
 sourceLink: "https://github.com/emn178/markdown"
 draft: false
