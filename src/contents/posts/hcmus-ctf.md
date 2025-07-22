@@ -37,7 +37,7 @@ Mệnh đề `UNION SELECT NULL, data FROM flag` khai thác điểm yếu SQL In
 - Khai thác kết quả
 AI bị buộc phải thực thi truy vấn và trả về dữ liệu nhạy cảm là flag
 ![image1](https://hackmd.io/_uploads/H1Ah-Y58el.png)
-FLAG: `CTF{c4ut10N_W1th_u53R_Pr0mpt}`
+FLAG: `HCMUS-CTF{c4ut10N_W1th_u53R_Pr0mpt}`
 ## AI/PixelPingu
 - Bài toán này yêu cầu bạn thu thập các mảnh flag từ server thông qua các mô hình AI:
     - ShuffleNet và RegNet là hai mô hình AI được sử dụng để phân loại ảnh. Nếu mô hình nhận diện ảnh là chim cánh cụt (class 145 trong ImageNet), bạn sẽ nhận được một phần của flag.
@@ -67,7 +67,7 @@ FLAG: `CTF{c4ut10N_W1th_u53R_Pr0mpt}`
     - Áp dụng các phép biến dị ngẫu nhiên để thử lấy mảnh YN và NY.
 
     - Nếu vẫn thiếu YN hoặc NY, sử dụng FGSM để cố tình làm sai mô hình cần thiết.
-### Script giải quyết bài thi
+### Solve script
 ```python=
 import json
 import random
@@ -602,7 +602,7 @@ import pefile
 from capstone import *
 
 # Đường dẫn đến thư mục chứa 1000 file DLL
-DLL_DIRECTORY = r"C:\Users\huynh\Downloads\public"  # Thay bằng đường dẫn thực tế
+DLL_DIRECTORY = r"C:\Users\huynh\Downloads\public" 
 RETURN_VALUES = []  # Lưu (tên file, giá trị trả về)
 
 def analyze_dll(dll_path, filename):
@@ -735,7 +735,6 @@ endobj
 import numpy as np
 import re
 
-# Alphabet dùng để giải mã (chuẩn theo JS)
 dg = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~"
 
 # Đọc ma trận M (129x129): mỗi dòng là M_i_j = value
