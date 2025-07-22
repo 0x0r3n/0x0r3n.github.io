@@ -15,7 +15,7 @@ Below is a list of our team members:
 - **Huynh Quoc Ky aka nukoneZ**: Reverse Engineering Specialist, he speaks 2 languages: Vietnamese and Assembly
 - **Dao The Quan aka _biscuit.cz**: Web Security Expert, script kiddie extraordinaire
 - **Tran An Thuan aka t4t3012**: AI and Machine Learning Specialist, he can make AI do anything except solving CTF challenges
-![nero_optimized_1000](https://hackmd.io/_uploads/SJZXMRnUxl.jpg)
+![nero_optimized_1000](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_b597dd0bb4d04f8b925358eaf28f540e.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1753175504&Signature=c%2BiEGZjGGuPQV8VG%2BJnk6t4jX58%3D)
 
 We're currently ranked 3rd on [Vietnamese ctftime scoreboard](https://ctftime.org/stats/VN)
 
