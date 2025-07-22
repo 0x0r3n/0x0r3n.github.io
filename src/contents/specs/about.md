@@ -1,4 +1,5 @@
 # About us
+![nero_optimized_1000](https://hackmd.io/_uploads/SJZXMRnUxl.jpg)
 We're a CTF team from Posts and Telecommunications Institute of Techology, Ho Chi Minh City, Vietnam. 
 
 Our team was founded in 2023 and has been participating in various CTF competitions since then. 
@@ -15,7 +16,7 @@ Below is a list of our team members:
 - **Huynh Quoc Ky aka nukoneZ**: Reverse Engineering Specialist, he speaks 2 languages: Vietnamese and Assembly
 - **Dao The Quan aka _biscuit.cz**: Web Security Expert, script kiddie extraordinaire
 - **Tran An Thuan aka t4t3012**: AI and Machine Learning Specialist, he can make AI do anything except solving CTF challenges
-![nero_optimized_1000](https://hackmd.io/_uploads/SJZXMRnUxl.jpg)
+
 
 We're currently ranked 3rd on [Vietnamese ctftime scoreboard](https://ctftime.org/stats/VN)
 
