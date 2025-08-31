@@ -1,3 +1,13 @@
+---
+title: HOLACTF 2025
+published: 2025-08-30
+description: Writeups for HOLACTF 2025 challenges.
+tags: [Reversing, Forensics, Crypto, Web, Misc, OSINT]
+category: Writeups
+author: nh0kt1g3r12, kAiz3n, nukoneZ, t4t3012, _biscuit.cz
+sourceLink: "https://github.com/emn178/markdown"
+draft: false
+---
 # HOLACTF 2025 Writeups
 
 
